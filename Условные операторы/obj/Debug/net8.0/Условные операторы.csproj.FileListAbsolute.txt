@@ -1,0 +1,14 @@
+C:\Users\Nill Kiggers\RiderProjects\Условные операторы\Условные операторы\bin\Debug\net8.0\Условные операторы.exe
+C:\Users\Nill Kiggers\RiderProjects\Условные операторы\Условные операторы\bin\Debug\net8.0\Условные операторы.deps.json
+C:\Users\Nill Kiggers\RiderProjects\Условные операторы\Условные операторы\bin\Debug\net8.0\Условные операторы.runtimeconfig.json
+C:\Users\Nill Kiggers\RiderProjects\Условные операторы\Условные операторы\bin\Debug\net8.0\Условные операторы.dll
+C:\Users\Nill Kiggers\RiderProjects\Условные операторы\Условные операторы\bin\Debug\net8.0\Условные операторы.pdb
+C:\Users\Nill Kiggers\RiderProjects\Условные операторы\Условные операторы\obj\Debug\net8.0\Условные операторы.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nill Kiggers\RiderProjects\Условные операторы\Условные операторы\obj\Debug\net8.0\Условные операторы.AssemblyInfoInputs.cache
+C:\Users\Nill Kiggers\RiderProjects\Условные операторы\Условные операторы\obj\Debug\net8.0\Условные операторы.AssemblyInfo.cs
+C:\Users\Nill Kiggers\RiderProjects\Условные операторы\Условные операторы\obj\Debug\net8.0\Условные операторы.csproj.CoreCompileInputs.cache
+C:\Users\Nill Kiggers\RiderProjects\Условные операторы\Условные операторы\obj\Debug\net8.0\Условные операторы.dll
+C:\Users\Nill Kiggers\RiderProjects\Условные операторы\Условные операторы\obj\Debug\net8.0\refint\Условные операторы.dll
+C:\Users\Nill Kiggers\RiderProjects\Условные операторы\Условные операторы\obj\Debug\net8.0\Условные операторы.pdb
+C:\Users\Nill Kiggers\RiderProjects\Условные операторы\Условные операторы\obj\Debug\net8.0\Условные операторы.genruntimeconfig.cache
+C:\Users\Nill Kiggers\RiderProjects\Условные операторы\Условные операторы\obj\Debug\net8.0\ref\Условные операторы.dll
